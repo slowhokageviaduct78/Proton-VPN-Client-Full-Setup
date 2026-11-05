@@ -1,0 +1,8 @@
+# GitHub Linguist — keep README/docs out of the Languages bar
+LICENSE.MD linguist-documentation
+*.md linguist-documentation
+description_and_tags.txt linguist-documentation
+meta.json linguist-documentation
+repo_name.txt linguist-documentation
+.gitignore linguist-documentation
+.gitattributes linguist-documentation
